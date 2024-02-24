@@ -1,0 +1,7 @@
+we know how to separately files in working 
+##MVC full meanings bellow here
+M-> Models thats means all data files or databse data files here store 
+V-> view thats means all views files store here like html files
+C -> controller means all controller filse store here like get,post file logic store here
+
+and router folders all routes files store here
